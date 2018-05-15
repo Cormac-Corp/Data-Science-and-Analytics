@@ -14,4 +14,10 @@
 - An anomaly detection model for claims data
 
 # Text Analysis
-- Performed Text Analysis - Tokenizing the words to create word count, Text Summarization, Word Cloud
+
+- Mainstream open source software libraries like the Natural Language Toolkit for Python (NLTK) have emerged to offer a collection of high-quality reusable NLP functionality. 
+- Here at cormac we used NLTK and various other Python libraries to perform Text Analytics
+- Tokenizing the words to create word count
+- Text Summarization
+- Word Cloud
+- Named Entity Recognition
