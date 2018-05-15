@@ -11,9 +11,12 @@
 - Cluster Analysis of Open Payment data using K-Means algorithm with the purpose of detecting any anomalies.
 - Data taken from: https://www.cms.gov/OpenPayments/Explore-the-Data/Dataset-Downloads.html
 - Find hidden groupings within the open payment data set to discover new relationsips only recognizable by machines
+- Use the elbow method to find the optimal number of groupings for deep analysis
 
 # Market Basket Analysis
 - Using the Apriori algorithm on the open payments data set, we attempted to find hidden relationships on the open payment dataset.
+- Data taken from: https://www.cms.gov/OpenPayments/Explore-the-Data/Dataset-Downloads.html
+- Create a recommendation system that recommends different teaching hospitals to applicable manufacturers and group purchasing organizations
 
 # Claims Anomaly
 - An anomaly detection model for claims data
