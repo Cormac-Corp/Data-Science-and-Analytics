@@ -2,10 +2,15 @@
 
 # Regression Analysis
 
-- Rudimentary Regression Analysis on Home Health Care
+- Rudimentary Regression Analysis on Home Health Care Data
+- Data taken from: https://catalog.data.gov/dataset/home-health-care-agencies-c1765
+- Analyze which values correlate highest with the Quality of Patient Care Star Rating
+- Use the highest correlated values to build a Linear Regression predictive model
 
 # Cluster Analysis of Open Payments Data
 - Cluster Analysis of Open Payment data using K-Means algorithm with the purpose of detecting any anomalies.
+- Data taken from: https://www.cms.gov/OpenPayments/Explore-the-Data/Dataset-Downloads.html
+- Find hidden groupings within the open payment data set to discover new relationsips only recognizable by machines
 
 # Market Basket Analysis
 - Using the Apriori algorithm on the open payments data set, we attempted to find hidden relationships on the open payment dataset.
